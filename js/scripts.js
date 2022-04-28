@@ -16,6 +16,6 @@ function sumarArreglo() {
         });
 
         console.log(sumarArreglo)
-        document.getElementById("aquiRespuesta").innerHTML = ('<p color="blue">La suma de los numeros que contiene arreglo[' + arreglo + '] es: ' + sumarArreglo);
+        document.getElementById("aquiRespuesta").innerHTML = ('<p style="color:#1a21ef">La suma de los numeros que contiene arreglo[' + arreglo + '] es: ' + sumarArreglo);
     }
 }
